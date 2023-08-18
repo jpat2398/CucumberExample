@@ -1,3 +1,4 @@
+@newApp
 Feature: New Application
 
   Background:
